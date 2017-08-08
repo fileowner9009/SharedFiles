@@ -1,0 +1,21 @@
+<html>
+  
+  <table class="table table-striped" *ngFor="let file of files">
+    <thead>
+    <tr>
+      <th>File Name</th>
+      <th>File Path</th>
+      <th>View File</th>
+    </tr>
+  </thead>
+ 
+  <tbody>
+      <tr>
+        <td>{{file.name}}</td>
+        <td>{{file.path}}</td>
+        <td>{{file.path}}</td>
+      </tr>
+  </tbody>
+  </table>  
+
+</html>
