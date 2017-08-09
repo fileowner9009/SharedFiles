@@ -1,7 +1,7 @@
-[{"city_name":"San Jose",
+[ {"city":"San Jose",
   "state":"California",
   "country":"USA"},
- {"city_name":"Fremont",
+ {"city":"Fremont",
   "state":"California",
   "country":"USA"}
  }
