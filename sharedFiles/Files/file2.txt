@@ -1,0 +1,8 @@
+[ {"city":"Bangalore",
+  "state":"Karnataka",
+  "country":"India"},
+ {"city":"Hyderabad",
+  "state":"Andra Pradesh",
+  "country":"India"}
+
+]
