@@ -4,5 +4,5 @@
  {"city":"Fremont",
   "state":"California",
   "country":"USA"}
- }
+
 ]
